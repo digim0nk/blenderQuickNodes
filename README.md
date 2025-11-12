@@ -1,5 +1,5 @@
 # QuickNodes for blender
-Finding and adding Nodes in the Node Editor can sometimes get very Keyboard heavy.
+Finding and adding Nodes in the Node Editor can sometimes get very Keyboard heavy and distracting from the flow.
 QuickNodes Lets the User add Nodes without using the Keyboard and the Add Menu. 
 
 # Features
