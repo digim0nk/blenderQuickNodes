@@ -10,5 +10,8 @@ QuickNodes Lets the User add Nodes without using the Keyboard and the Add Menu.
 - Access to the Quick Favorites.
 - All Panels Closed by Default for a compact view.
 - TODO Add Dynamic Groups
+
+<img width="280" height="716" alt="QuickNodesSS" src="https://github.com/user-attachments/assets/7365231b-fc6f-4064-918c-4ff995791da7" />
+
     
 [ScreencastFastNodes.webm](https://github.com/user-attachments/assets/610b4175-27ba-44c0-be1f-8efc29b051e0)
