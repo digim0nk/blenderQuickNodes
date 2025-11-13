@@ -10,6 +10,7 @@ QuickNodes Lets the User add Nodes without using the Keyboard and the Add Menu.
 - Access to the Quick Favorites.
 - All Panels Closed by Default for a compact view.
 - TODO Add Dynamic Groups
+- Package as a blender Extension ( I really need help with this )
 
 # Installation
 Download the .py file. 
